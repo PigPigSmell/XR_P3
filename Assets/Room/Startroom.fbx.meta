@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: de74bcdb5f9b45b429e4e4ecc7d9e7e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Black Book001
+    100004: Black Book002
+    100006: Blue Pot
+    100008: Book
+    100010: Book001
+    100012: Book002
+    100014: Bookcase
+    100016: Bowl
+    100018: Brown Pot
+    100020: Brown Pot001
+    100022: Candle
+    100024: Candle001
+    100026: Candle003
+    100028: Candle004
+    100030: Candle005
+    100032: Castle Ornament
+    100034: Chair
+    100036: Chair001
+    100038: Couch
+    100040: Desk
+    100042: Feather Pen
+    100044: Fishing Rod
+    100046: Fishing Rod001
+    100048: Frog
+    100050: Frog Ornament
+    100052: Frog Statue
+    100054: Frog001
+    100056: Frog002
+    100058: Frog003
+    100060: Gold Pot
+    100062: Golden Box
+    100064: Green Book
+    100066: Green Book001
+    100068: Green Book002
+    100070: Green Book003
+    100072: Green Book004
+    100074: Green Book005
+    100076: Green Book006
+    100078: Green Book007
+    100080: Green Book008
+    100082: Moss
+    100084: Moss001
+    100086: Moss002
+    100088: Orb
+    100090: Page
+    100092: Painting
+    100094: Picture Frame
+    100096: Picture Frame001
+    100098: Pillar
+    100100: Pillar001
+    100102: Pillar002
+    100104: Pillar003
+    100106: Pillar004
+    100108: Pillar005
+    100110: Pillar006
+    100112: Pillar007
+    100114: Plane001
+    100116: Plant
+    100118: Red Book
+    100120: Red Book001
+    100122: Red Book002
+    100124: Red Book003
+    100126: Red Book004
+    100128: Red Book005
+    100130: Red Book006
+    100132: Red Book007
+    100134: Red Book008
+    100136: Red Book009
+    100138: Red Book012
+    100140: Red Book013
+    100142: Red Book014
+    100144: Red Book015
+    100146: Red Book016
+    100148: Red Book017
+    100150: Roll of Paper
+    100152: Roll of Paper001
+    100154: Room
+    100156: Rug Bedroom
+    100158: //RootNode
+    100160: Table
+    100162: Table Candle Holder
+    100164: Tools
+    100166: TPhotometricLight002
+    100168: TPhotometricLight002.Target
+    100170: TPhotometricLight003
+    100172: TPhotometricLight003.Target
+    100174: TPhotometricLight005
+    100176: TPhotometricLight005.Target
+    100178: Trophey
+    100180: UpperLevel
+    100182: Wall Candle Holder
+    100184: Wall Candle Holder001
+    100186: Wardrobe
+    100188: Yellow Bucket
+    400000: Bed
+    400002: Black Book001
+    400004: Black Book002
+    400006: Blue Pot
+    400008: Book
+    400010: Book001
+    400012: Book002
+    400014: Bookcase
+    400016: Bowl
+    400018: Brown Pot
+    400020: Brown Pot001
+    400022: Candle
+    400024: Candle001
+    400026: Candle003
+    400028: Candle004
+    400030: Candle005
+    400032: Castle Ornament
+    400034: Chair
+    400036: Chair001
+    400038: Couch
+    400040: Desk
+    400042: Feather Pen
+    400044: Fishing Rod
+    400046: Fishing Rod001
+    400048: Frog
+    400050: Frog Ornament
+    400052: Frog Statue
+    400054: Frog001
+    400056: Frog002
+    400058: Frog003
+    400060: Gold Pot
+    400062: Golden Box
+    400064: Green Book
+    400066: Green Book001
+    400068: Green Book002
+    400070: Green Book003
+    400072: Green Book004
+    400074: Green Book005
+    400076: Green Book006
+    400078: Green Book007
+    400080: Green Book008
+    400082: Moss
+    400084: Moss001
+    400086: Moss002
+    400088: Orb
+    400090: Page
+    400092: Painting
+    400094: Picture Frame
+    400096: Picture Frame001
+    400098: Pillar
+    400100: Pillar001
+    400102: Pillar002
+    400104: Pillar003
+    400106: Pillar004
+    400108: Pillar005
+    400110: Pillar006
+    400112: Pillar007
+    400114: Plane001
+    400116: Plant
+    400118: Red Book
+    400120: Red Book001
+    400122: Red Book002
+    400124: Red Book003
+    400126: Red Book004
+    400128: Red Book005
+    400130: Red Book006
+    400132: Red Book007
+    400134: Red Book008
+    400136: Red Book009
+    400138: Red Book012
+    400140: Red Book013
+    400142: Red Book014
+    400144: Red Book015
+    400146: Red Book016
+    400148: Red Book017
+    400150: Roll of Paper
+    400152: Roll of Paper001
+    400154: Room
+    400156: Rug Bedroom
+    400158: //RootNode
+    400160: Table
+    400162: Table Candle Holder
+    400164: Tools
+    400166: TPhotometricLight002
+    400168: TPhotometricLight002.Target
+    400170: TPhotometricLight003
+    400172: TPhotometricLight003.Target
+    400174: TPhotometricLight005
+    400176: TPhotometricLight005.Target
+    400178: Trophey
+    400180: UpperLevel
+    400182: Wall Candle Holder
+    400184: Wall Candle Holder001
+    400186: Wardrobe
+    400188: Yellow Bucket
+    2100000: 13 - Default
+    2100002: 04 - Default
+    2100004: 16 - Default
+    2100006: 01 - Default
+    2100008: 15 - Default
+    2100010: 'Material #22'
+    2100012: 24 - Default
+    2100014: 05 - Default
+    2100016: 07 - Default
+    2100018: 02 - Default
+    2100020: 09 - Default
+    2100022: 18 - Default
+    2100024: 'Material #15'
+    2100026: 10 - Default
+    2100028: 22 - Default
+    2100030: 23 - Default
+    2100032: 06 - Default
+    2100034: 08 - Default
+    2100036: 12 - Default
+    2100038: 19 - Default
+    2100040: 14 - Default
+    2100042: 20 - Default
+    2100044: 21 - Default
+    2100046: 03 - Default
+    2100048: 'Material #4'
+    2100050: 'Material #6'
+    2100052: 'Material #7'
+    2100054: 'Material #8'
+    2100056: 'Material #9'
+    2100058: 'Material #10'
+    2100060: 'Material #12'
+    2100062: 'Material #13'
+    2100064: 'Material #11'
+    2100066: 11 - Default
+    2100068: 'Material #19'
+    2100070: 'Material #21'
+    2100072: 'Material #18'
+    2100074: 'Material #17'
+    2100076: 'Material #16'
+    2100078: 'Material #20'
+    2300000: Bed
+    2300002: Black Book001
+    2300004: Black Book002
+    2300006: Blue Pot
+    2300008: Book
+    2300010: Book001
+    2300012: Book002
+    2300014: Bookcase
+    2300016: Bowl
+    2300018: Brown Pot
+    2300020: Brown Pot001
+    2300022: Candle
+    2300024: Candle001
+    2300026: Candle003
+    2300028: Candle004
+    2300030: Candle005
+    2300032: Castle Ornament
+    2300034: Chair
+    2300036: Chair001
+    2300038: Couch
+    2300040: Desk
+    2300042: Feather Pen
+    2300044: Fishing Rod
+    2300046: Fishing Rod001
+    2300048: Frog
+    2300050: Frog Ornament
+    2300052: Frog Statue
+    2300054: Frog001
+    2300056: Frog002
+    2300058: Frog003
+    2300060: Gold Pot
+    2300062: Golden Box
+    2300064: Green Book
+    2300066: Green Book001
+    2300068: Green Book002
+    2300070: Green Book003
+    2300072: Green Book004
+    2300074: Green Book005
+    2300076: Green Book006
+    2300078: Green Book007
+    2300080: Green Book008
+    2300082: Moss
+    2300084: Moss001
+    2300086: Moss002
+    2300088: Orb
+    2300090: Page
+    2300092: Painting
+    2300094: Picture Frame
+    2300096: Picture Frame001
+    2300098: Pillar
+    2300100: Pillar001
+    2300102: Pillar002
+    2300104: Pillar003
+    2300106: Pillar004
+    2300108: Pillar005
+    2300110: Pillar006
+    2300112: Pillar007
+    2300114: Plane001
+    2300116: Plant
+    2300118: Red Book
+    2300120: Red Book001
+    2300122: Red Book002
+    2300124: Red Book003
+    2300126: Red Book004
+    2300128: Red Book005
+    2300130: Red Book006
+    2300132: Red Book007
+    2300134: Red Book008
+    2300136: Red Book009
+    2300138: Red Book012
+    2300140: Red Book013
+    2300142: Red Book014
+    2300144: Red Book015
+    2300146: Red Book016
+    2300148: Red Book017
+    2300150: Roll of Paper
+    2300152: Roll of Paper001
+    2300154: Room
+    2300156: Rug Bedroom
+    2300158: Table
+    2300160: Table Candle Holder
+    2300162: Tools
+    2300164: Trophey
+    2300166: UpperLevel
+    2300168: Wall Candle Holder
+    2300170: Wall Candle Holder001
+    2300172: Wardrobe
+    2300174: Yellow Bucket
+    3300000: Bed
+    3300002: Black Book001
+    3300004: Black Book002
+    3300006: Blue Pot
+    3300008: Book
+    3300010: Book001
+    3300012: Book002
+    3300014: Bookcase
+    3300016: Bowl
+    3300018: Brown Pot
+    3300020: Brown Pot001
+    3300022: Candle
+    3300024: Candle001
+    3300026: Candle003
+    3300028: Candle004
+    3300030: Candle005
+    3300032: Castle Ornament
+    3300034: Chair
+    3300036: Chair001
+    3300038: Couch
+    3300040: Desk
+    3300042: Feather Pen
+    3300044: Fishing Rod
+    3300046: Fishing Rod001
+    3300048: Frog
+    3300050: Frog Ornament
+    3300052: Frog Statue
+    3300054: Frog001
+    3300056: Frog002
+    3300058: Frog003
+    3300060: Gold Pot
+    3300062: Golden Box
+    3300064: Green Book
+    3300066: Green Book001
+    3300068: Green Book002
+    3300070: Green Book003
+    3300072: Green Book004
+    3300074: Green Book005
+    3300076: Green Book006
+    3300078: Green Book007
+    3300080: Green Book008
+    3300082: Moss
+    3300084: Moss001
+    3300086: Moss002
+    3300088: Orb
+    3300090: Page
+    3300092: Painting
+    3300094: Picture Frame
+    3300096: Picture Frame001
+    3300098: Pillar
+    3300100: Pillar001
+    3300102: Pillar002
+    3300104: Pillar003
+    3300106: Pillar004
+    3300108: Pillar005
+    3300110: Pillar006
+    3300112: Pillar007
+    3300114: Plane001
+    3300116: Plant
+    3300118: Red Book
+    3300120: Red Book001
+    3300122: Red Book002
+    3300124: Red Book003
+    3300126: Red Book004
+    3300128: Red Book005
+    3300130: Red Book006
+    3300132: Red Book007
+    3300134: Red Book008
+    3300136: Red Book009
+    3300138: Red Book012
+    3300140: Red Book013
+    3300142: Red Book014
+    3300144: Red Book015
+    3300146: Red Book016
+    3300148: Red Book017
+    3300150: Roll of Paper
+    3300152: Roll of Paper001
+    3300154: Room
+    3300156: Rug Bedroom
+    3300158: Table
+    3300160: Table Candle Holder
+    3300162: Tools
+    3300164: Trophey
+    3300166: UpperLevel
+    3300168: Wall Candle Holder
+    3300170: Wall Candle Holder001
+    3300172: Wardrobe
+    3300174: Yellow Bucket
+    4300000: Table
+    4300002: Desk
+    4300004: Book
+    4300006: Yellow Bucket
+    4300008: Painting
+    4300010: Wall Candle Holder
+    4300012: Candle
+    4300014: Table Candle Holder
+    4300016: Brown Pot
+    4300018: Gold Pot
+    4300020: Blue Pot
+    4300022: Room
+    4300024: Candle001
+    4300026: Candle003
+    4300028: Candle004
+    4300030: Wall Candle Holder001
+    4300032: Book001
+    4300034: UpperLevel
+    4300036: Brown Pot001
+    4300038: Bookcase
+    4300040: Red Book
+    4300042: Red Book001
+    4300044: Red Book002
+    4300046: Black Book001
+    4300048: Black Book002
+    4300050: Red Book003
+    4300052: Red Book004
+    4300054: Red Book005
+    4300056: Red Book006
+    4300058: Red Book007
+    4300060: Red Book008
+    4300062: Red Book009
+    4300064: Green Book
+    4300066: Green Book001
+    4300068: Green Book002
+    4300070: Green Book003
+    4300072: Green Book005
+    4300074: Green Book004
+    4300076: Red Book012
+    4300078: Red Book013
+    4300080: Red Book014
+    4300082: Green Book006
+    4300084: Green Book007
+    4300086: Green Book008
+    4300088: Red Book015
+    4300090: Red Book016
+    4300092: Red Book017
+    4300094: Golden Box
+    4300096: Plant
+    4300098: Couch
+    4300100: Book002
+    4300102: Bed
+    4300104: Chair
+    4300106: Chair001
+    4300108: Pillar
+    4300110: Pillar001
+    4300112: Pillar002
+    4300114: Pillar003
+    4300116: Pillar004
+    4300118: Pillar005
+    4300120: Pillar006
+    4300122: Pillar007
+    4300124: Wardrobe
+    4300126: Page
+    4300128: Candle005
+    4300130: Rug Bedroom
+    4300132: Plane001
+    4300134: Picture Frame
+    4300136: Picture Frame001
+    4300138: Fishing Rod
+    4300140: Fishing Rod001
+    4300142: Moss
+    4300144: Moss001
+    4300146: Moss002
+    4300148: Roll of Paper
+    4300150: Roll of Paper001
+    4300152: Feather Pen
+    4300154: Bowl
+    4300156: Frog Statue
+    4300158: Frog Ornament
+    4300160: Tools
+    4300162: Frog
+    4300164: Frog001
+    4300166: Frog002
+    4300168: Frog003
+    4300170: Orb
+    4300172: Trophey
+    4300174: Castle Ornament
+    10800000: TPhotometricLight002
+    10800002: TPhotometricLight003
+    10800004: TPhotometricLight005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
